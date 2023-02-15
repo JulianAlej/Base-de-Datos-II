@@ -1,0 +1,10 @@
+1) Que es una base de datos relacional?
+
+Una base de datos relacional es una colección de información que organiza datos en relaciones predefinidas, en la que los datos se almacenan en una o más tablas (o "relaciones") de columnas y filas, lo que facilita su visualización y la comprensión de cómo se relacionan las diferentes estructuras de datos entre sí.
+
+2) Que es DML:
+
+ Lenguaje de Manipulación de Datos es un lenguaje proporcionado por los sistemas gestores de bases de datos que permite a los usuarios de la misma llevar a cabo las tareas de consulta o modificación de los datos contenidos en las Bases de Datos del Sistema Gestor de Bases de Datos.
+
+3) Que es DDL:
+Las declaraciones del lenguaje de definición de datos (DDL) te permiten crear y modificar recursos de BigQuery mediante la sintaxis de consultas SQL estándar de Google.
